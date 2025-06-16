@@ -17,7 +17,6 @@
     "eslint-config-airbnb-base": "14.0.0",
     "eslint-plugin-import": "2.20.0",
     "eslint-plugin-vue": "5.0.0",
-    "node-sass": "4.13.1",
     "sass-loader": "8.0.2",
     "vue-cli-plugin-single-spa": "1.1.0",
     "vue-template-compiler": "2.6.11",
@@ -47,6 +46,7 @@
   },
   "homepage": "https://github.com/jualoppaz/single-spa-auth-app#readme",
   "dependencies": {
+    "sass": "^1.77.8",
     "vue-google-adsense": "1.9.2",
     "vue-script2": "2.1.0"
   }
