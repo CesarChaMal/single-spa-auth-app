@@ -15,7 +15,6 @@ module.exports = {
       libraryTarget: 'umd',
       filename: 'single-spa-auth-app.js',
       path: path.resolve(__dirname, 'dist'),
-      publicPath: 'http://localhost:4201/'
     },
     plugins: [
       new webpack.optimize.LimitChunkCountPlugin({
